@@ -12,6 +12,7 @@
         <module>flyeyes-core</module>
         <module>flyeyes-client</module>
         <module>flyeyes-server</module>
+        <module>storage/flyeyes-mysql</module>
     </modules>
 
     <properties>
