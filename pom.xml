@@ -13,6 +13,7 @@
         <module>flyeyes-server</module>
         <module>storage/flyeyes-mysql</module>
         <module>flyeyes-client/flyeyes-flume</module>
+        <module>aggregation/flyeyes-kafka</module>
     </modules>
 
     <properties>
