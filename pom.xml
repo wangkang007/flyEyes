@@ -11,6 +11,7 @@
     <modules>
         <module>flyeyes-core</module>
         <module>flyeyes-client</module>
+        <module>flyeyes-server</module>
     </modules>
 
     <properties>
@@ -75,6 +76,10 @@
     </dependencyManagement>
     <build>
         <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
