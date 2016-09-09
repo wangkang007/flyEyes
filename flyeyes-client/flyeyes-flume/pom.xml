@@ -6,10 +6,11 @@
         <artifactId>flyEyes</artifactId>
         <groupId>com.flyeyes</groupId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>flyeyes-client</artifactId>
+    <artifactId>flyeyes-flume</artifactId>
 
 
 </project>

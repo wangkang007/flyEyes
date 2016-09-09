@@ -10,9 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>flyeyes-core</module>
-        <module>flyeyes-client</module>
         <module>flyeyes-server</module>
         <module>storage/flyeyes-mysql</module>
+        <module>flyeyes-client/flyeyes-flume</module>
     </modules>
 
     <properties>

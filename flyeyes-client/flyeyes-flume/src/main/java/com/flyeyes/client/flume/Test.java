@@ -1,4 +1,4 @@
-package com.flyeyes.client;
+package com.flyeyes.client.flume;
 
 /**
  * ClassName: Test
